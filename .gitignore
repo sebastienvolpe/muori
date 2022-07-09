@@ -7,3 +7,13 @@ Plugins/*/Intermediate/*
 
 # Cache for editor
 DerivedDataCache/*
+
+# Builds
+Build/*/**
+
+#Build data for maps
+*_BuiltData.uasset
+
+# Binaries
+Binaries/*
+Plugins/*/Binaries/*
