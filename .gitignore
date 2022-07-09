@@ -1,0 +1,6 @@
+# UE5 Configuration Files
+Saved/*
+
+# Compiled Source Files
+Intermediate/*
+Plugins/*/Intermediate/*
