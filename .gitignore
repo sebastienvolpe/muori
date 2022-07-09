@@ -4,3 +4,6 @@ Saved/*
 # Compiled Source Files
 Intermediate/*
 Plugins/*/Intermediate/*
+
+# Cache for editor
+DerivedDataCache/*
