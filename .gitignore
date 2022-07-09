@@ -9,6 +9,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Builds
+!Build/*
 Build/*/**
 
 #Build data for maps
